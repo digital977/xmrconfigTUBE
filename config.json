@@ -28,7 +28,7 @@
             "rig-id": "CI320",
             "nicehash": false,
             "keepalive": false,
-            "variant": tube,
+            "variant": -1,
             "tls": false,
             "tls-fingerprint": null
         }
