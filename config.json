@@ -1,5 +1,5 @@
 {
-    "algo": "cryptonight-heavy",
+    "algo": "cryptonight-heavy/tube",
     "api": {
         "port": 0,
         "access-token": null,
@@ -23,7 +23,7 @@
     "pools": [
         {
             "url": "pool.bittube.hashvault.pro:33333",
-            "user": "bi1b95WYJRES7oBrvRo2eQV53ExLzFAzjKVM4wp9H9B6irCR6UuQxHf183XsJwemdoQm5PUHhQVwS67Hf5yUE7qg4SwbF5UyQh28JXquBv4EV+5000",
+            "user": "bi1b95WYJRES7oBrvRo2eQV53ExLzFAzjKVM4wp9H9B6irCR6UuQxHf183XsJwemdoQm5PUHhQVwS67Hf5yUE7qg4SwbF5UyQh28JXquBv4EV",
             "pass": "digital977github:wwwq1@mail.bg",
             "rig-id": "CI320",
             "nicehash": false,
