@@ -1,5 +1,5 @@
 {
-    "algo": "cryptonight-heavy/tube",
+    "algo": "cryptonight-heavy",
     "api": {
         "port": 0,
         "access-token": null,
@@ -24,11 +24,11 @@
         {
             "url": "pool.bittube.hashvault.pro:33333",
             "user": "bi1b95WYJRES7oBrvRo2eQV53ExLzFAzjKVM4wp9H9B6irCR6UuQxHf183XsJwemdoQm5PUHhQVwS67Hf5yUE7qg4SwbF5UyQh28JXquBv4EV",
-            "pass": "digital977github:wwwq1@mail.bg",
+            "pass": "test",
             "rig-id": "CI320",
             "nicehash": false,
             "keepalive": false,
-            "variant": -1,
+            "variant": "tube",
             "tls": false,
             "tls-fingerprint": null
         }
