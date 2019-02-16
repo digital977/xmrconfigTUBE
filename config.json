@@ -22,7 +22,7 @@
     "max-cpu-usage": 98,
     "pools": [
         {
-            "url": "pool.bittube.hashvault.pro:33333",
+            "url": "pool.bittube.hashvault.pro:3333",
             "user": "bi1b95WYJRES7oBrvRo2eQV53ExLzFAzjKVM4wp9H9B6irCR6UuQxHf183XsJwemdoQm5PUHhQVwS67Hf5yUE7qg4SwbF5UyQh28JXquBv4EV",
             "pass": "test",
             "rig-id": "CI320",
