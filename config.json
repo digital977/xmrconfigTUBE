@@ -23,7 +23,7 @@
     "pools": [
         {
             "url": "pool.bittube.hashvault.pro:3333",
-            "user": "bi1b95WYJRES7oBrvRo2eQV53ExLzFAzjKVM4wp9H9B6irCR6UuQxHf183XsJwemdoQm5PUHhQVwS67Hf5yUE7qg4SwbF5UyQh28JXquBv4EV",
+            "user": "bi1b95WYJRES7oBrvRo2eQV53ExLzFAzjKVM4wp9H9B6irCR6UuQxHf183XsJwemdoQm5PUHhQVwS67Hf5yUE7qg4SwbF5UyQh28JXquBv4EV+5000",
             "pass": "test",
             "rig-id": "CI320",
             "nicehash": false,
